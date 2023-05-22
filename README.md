@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushil642" alt="sushil642" /></a> </p>
 
-- 🌱 I’m currently learning **DSA(C++)**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C++**
 
