@@ -2,6 +2,7 @@
 <h3 align="center">A Front End Developer from India</h3>
 <h4 >I am Sushil Singh pursing Btech in computer Science from Bangalore Institute of technology.
      I m very pasionate to learn new technologies.Let's connect and collaborate on exciting projects! Feel free to reach out.</h4>
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil642&label=Profile%20views&color=0e75b6&style=flat" alt="sushil642" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushil642" alt="sushil642" /></a> </p>
