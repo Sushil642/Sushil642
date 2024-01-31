@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushil Singh</h1>
 <h3 align="center">A passionate Web Devloper from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **web dev projects**
 
